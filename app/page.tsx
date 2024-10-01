@@ -1,5 +1,5 @@
-import CVComponent from './CVComponent'
+import CVComponent from "../components/CVComponent";
 
 export default function Page() {
-  return <CVComponent />
+  return <CVComponent />;
 }
